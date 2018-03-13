@@ -1,0 +1,5 @@
+package eNum;
+
+public enum eSuit {
+	HEARTS, CLUBS, DIAMONDS, SPADES;
+}
